@@ -1,6 +1,6 @@
 # 一念共学 · 单词旅行
 
-通过知远与三位 AI 伙伴的旅行故事，在双语漫画中学习英语单词。
+通过知远与 AI 伙伴们的旅行故事，在双语漫画中学习英语单词。
 
 ## 第一季：日本
 
@@ -9,6 +9,14 @@
 - [下载整个作品库 ZIP](https://github.com/zctpy/AIdancilvxing/archive/refs/heads/main.zip)：解压后打开 `japan/index.html` 离线阅读。
 
 日本季收录第 0—10 集；每集附重点单词、美式音标和双语例句。漫画图片内的音标可能有误，请以图片下方的文字为准。
+
+## 第二季：上海
+
+- [在线阅读上海季](https://zctpy.github.io/AIdancilvxing/shanghai/)
+- [打开上海季源文件](shanghai/)
+- [下载整个作品库 ZIP](https://github.com/zctpy/AIdancilvxing/archive/refs/heads/main.zip)：解压后打开 `shanghai/index.html` 离线阅读。
+
+上海季收录第 0—10 集；每集附重点单词、音标和双语例句。漫画图片内的音标如有差异，请以图片下方的文字为准。
 
 ## 后续更新
 
